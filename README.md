@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiv
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Pyhon,ML,AI.
+- 🌱 I’m currently learning Python,ML,AI.
 - 💞️ I’m looking to collaborate on various projects to work on.
 - 📫 How to reach me 17D110020@iitb.ac.in / kumshiv.iitb@gmail.com
 
