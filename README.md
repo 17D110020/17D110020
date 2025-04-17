@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiv
+- 👋 Hi, I’m @Shiv
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Pyhon,ML,AI.
 - 💞️ I’m looking to collaborate on various projects to work on.
